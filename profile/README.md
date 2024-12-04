@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<img src="https://avatars.githubusercontent.com/u/190579209?s=200&v=4"  width="100"/>
+![Business Banner](https://avatars.githubusercontent.com/u/190579209?s=200&v=4)
 
 <!--
 
