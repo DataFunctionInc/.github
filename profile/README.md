@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://avatars.githubusercontent.com/u/190579209?s=200&v=4"  width="100"/>
+
 <!--
 
 **Here are some ideas to get you started:**
