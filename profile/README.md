@@ -1,9 +1,6 @@
-![Business Banner](https://avatars.githubusercontent.com/u/190579209?s=200&v=4)
 
+![Business Banner](assets/banner.png)
 # Data Function Inc.
-
-<!-- ![Business Banner](https://avatars.githubusercontent.com/u/190579209?s=200&v=4) -->
-
 Welcome to the official GitHub profile of **Data Function Inc.**, where we showcase our open-source projects and contributions. We specialize in **Data Science**, **Data Analytics**, **AI**, and **Software Development**.
 
 <div>
@@ -13,9 +10,7 @@ Welcome to the official GitHub profile of **Data Function Inc.**, where we showc
 <a href="https://www.upwork.com/agencies/datafunction/">
   <img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" />
 </a>
-<a href="https://stackoverflow.com/users/11837259/ahmed-fathy">
-  <img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
-</a>
+
 <a href="https://twitter.com/DataFunctionInc">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
@@ -25,6 +20,11 @@ Welcome to the official GitHub profile of **Data Function Inc.**, where we showc
 <a href="https://www.instagram.com/datafunction.ca/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
+<a href="https://www.datafunction.ca/">
+  <img src="https://img.shields.io/badge/Website-0D6EFD?style=plastic&logo=firefoxbrowser&logoColor=white" alt="Website" />
+</a>
+
+
 </div>
 
 ## Projects
@@ -59,8 +59,9 @@ Explore our featured projects categorized below to see how Data Function Inc. ca
 
 - **Reinforcement learning**
 
-  1. [♟️Chess Engine: AI Mastery with Reinforcement Learning](proj1/README.md)
-     Build an AI chess engine that learns strategies through **self-play** and **reinforcement learning**. - Learns chess from scratch using **Q-learning**.  
+  1. [♟️Chess Engine: AI Mastery with Reinforcement Learning](https://github.com/DataFunctionInc/chess-engine.git)
+     Build an AI chess engine that learns strategies through **self-play** and **reinforcement learning**. 
+      - Learns chess from scratch using **Q-learning**.  
       - Adapts strategies with a neural network for smarter gameplay.  
       - Visualizes decision-making in real time. - Tech & Tools: Python, PyTorch, python-chess,Deep Q-Learning and visualization libraries.
         <div >
@@ -81,14 +82,69 @@ Explore our featured projects categorized below to see how Data Function Inc. ca
 
     <div align="center">
     <span>
-    <img src="assets/data-science/reinforcement-learning/chess-engine/train test.png" alt="Logo" width="50%" >
+    <img src="assets/data-science/reinforcement-learning/chess-engine/train test.png" alt="Logo" width="50%" height="250">
     <span>
     <span>
     <img src="assets/data-science/reinforcement-learning/chess-engine/results-ai-vs-random-agent.png" alt="Logo" width="40%"  height="250">
     <span>  
     </div>
 
-### Data Analytics
+#### Data Analytics
+Our team has extensive experience in the following tools and services:
+1. [Power BI](#power-bi-projects): We build interactive dashboards and reports that help businesses visualize and track their performance metrics in real-time.
+2. [Tableau Projects](#tableau-projects): Our Tableau dashboards provide powerful insights with dynamic filters, visuals, and easy-to-digest reports.
+3. [Excel Projects](#excel-projects): From financial modeling to data cleaning and forecasting, we use Excel's advanced features for in-depth data analysis.
+
+- #####  Power BI Projects
+  - **Sales Dashboard**
+    - Description: A Power BI dashboard displaying sales performance metrics.
+    <!-- - Features: Interactive charts, filters for regions and time periods, and monthly growth analysis.
+    - [View Project](link-to-project)
+    - Screenshot: ![Power BI Dashboard](screenshot-link) -->
+
+  - **Employee Performance Tracker**
+    - Description: Power BI report to track employee performance using various KPIs.
+    <!-- - Features: Visuals like bar charts, scatter plots, and trend lines to visualize employee data over time.
+    - [View Project](link-to-project)
+    - Screenshot: ![Employee Performance](screenshot-link) -->
+
+- #####  Tableau Projects
+  - **Market Analysis Dashboard**
+    - I will add description here
+    <!-- Description: A comprehensive Tableau dashboard analyzing market trends and customer behavior. -->
+    <!-- - Features: Interactive filters, line and bar charts, geographic map visualizations.
+    - [View Project](link-to-project)
+    - Screenshot: ![Tableau Market Analysis](screenshot-link) -->
+
+  - **Financial Summary Report**
+     - I will add description here
+    <!-- - Description: A Tableau workbook summarizing financial data for decision-makers.
+    - Features: Drill-down options, financial trend analysis, revenue breakdown by department.
+    - [View Project](link-to-project)
+    - Screenshot: ![Financial Report](screenshot-link) -->
+
+- ##### Excel Projects
+  - **Sales Forecasting Model**
+    - I will add description here
+    <!-- - Description: An Excel model that uses historical sales data to forecast future trends.
+    - Features: Use of functions like **IF**, **VLOOKUP**, and **FORECAST** to predict sales.
+    - [View Project](link-to-project)
+    - Screenshot: ![Sales Forecasting](screenshot-link) -->
+
+  - **Data Cleaning and Transformation**
+    - Description: A collection of Excel tools and macros to clean and transform raw data into usable formats.
+    - Features: Data normalization, removal of duplicates, and advanced pivot table usage.
+    - [View Project](link-to-project)
+    - Screenshot: ![Data Cleaning](screenshot-link)
+
+<!-- 
+
+## Contact
+Feel free to reach out to me for collaboration, feedback, or inquiries about any of these projects!
+- [LinkedIn](https://linkedin.com/in/your-profile)
+- [Email](mailto:youremail@example.com) -->
+
+
 <!-- 
 - **Power BI Dashboard**
   - A comprehensive Power BI dashboard analyzing company sales data.
