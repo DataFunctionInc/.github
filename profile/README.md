@@ -60,11 +60,12 @@ Explore our featured projects categorized below to see how Data Function Inc. ca
 - **Reinforcement learning**
 
   1. [♟️Chess Engine: AI Mastery with Reinforcement Learning](https://github.com/DataFunctionInc/chess-engine.git)
-  <br>
+
      Build an AI chess engine that learns strategies through **self-play** and **reinforcement learning**. 
       - Learns chess from scratch using **Q-learning**.  
       - Adapts strategies with a neural network for smarter gameplay.  
-      - Visualizes decision-making in real time. - Tech & Tools: Python, PyTorch, python-chess,Deep Q-Learning and visualization libraries.
+      - Visualizes decision-making in real time. 
+      - Tools and Technology: Python, PyTorch, python-chess,Deep Q-Learning and visualization libraries.
         <div >
         <a href="https://github.com/DataFunctionInc/chess-engine"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="Github" /></a>
         <a href="https://www.kaggle.com"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
@@ -79,9 +80,6 @@ Explore our featured projects categorized below to see how Data Function Inc. ca
       <span>
       <img src="assets/data-science/reinforcement-learning/chess-engine/initial state.png" alt="Logo" width="30%" height="150">
       <span>  
-      </div>
-
-      <div align="center">
       <span>
       <img src="assets/data-science/reinforcement-learning/chess-engine/train test.png" alt="Logo" width="50%" height="250">
       <span>
@@ -89,7 +87,6 @@ Explore our featured projects categorized below to see how Data Function Inc. ca
       <img src="assets/data-science/reinforcement-learning/chess-engine/results-ai-vs-random-agent.png" alt="Logo" width="40%"  height="250">
       <span>  
       </div>
-    
       - Visuals of the agent playing the game:
       <div align="center">
        <img src="./assets/data-science/reinforcement-learning/chess-engine/chess-engine.gif"  height="300"/>
