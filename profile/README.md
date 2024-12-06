@@ -87,7 +87,8 @@ Explore our featured projects categorized below to see how Data Function Inc. ca
       <img src="assets/data-science/reinforcement-learning/chess-engine/results-ai-vs-random-agent.png" alt="Logo" width="40%"  height="250">
       <span>  
       </div>
-      - Visuals of the agent playing the game:
+
+     - Visuals of the agent playing the game:
       <div align="center">
        <img src="./assets/data-science/reinforcement-learning/chess-engine/chess-engine.gif"  height="300"/>
       </div>
