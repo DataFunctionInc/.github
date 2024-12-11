@@ -194,46 +194,6 @@ Our team has extensive experience in web application frontends using the followi
 
 --- -->
 
-#### Frontend Development
-
-Our team has extensive experience in web application frontends in the following set of technologies:
-
-1. [React JS](#power-bi-projects): We build interactive dashboards and reports that help businesses visualize and track their performance metrics in real-time.
-2. [Tableau Projects](#tableau-projects): Our Tableau dashboards provide powerful insights with dynamic filters, visuals, and easy-to-digest reports.
-3. [Excel Projects](#excel-projects): From financial modeling to data cleaning and forecasting, we use Excel's advanced features for in-depth data analysis.
-
-- ##### Power BI Projects
-
-  - **Sales Dashboard**
-
-    - Description: A Power BI dashboard displaying sales performance metrics.
-    <!-- - Features: Interactive charts, filters for regions and time periods, and monthly growth analysis.
-    - [View Project](link-to-project)
-    - Screenshot: ![Power BI Dashboard](screenshot-link) -->
-
-  - **Employee Performance Tracker**
-    - Description: Power BI report to track employee performance using various KPIs.
-    <!-- - Features: Visuals like bar charts, scatter plots, and trend lines to visualize employee data over time.
-    - [View Project](link-to-project)
-    - Screenshot: ![Employee Performance](screenshot-link) -->
-
-- ##### Tableau Projects
-
-  - **Market Analysis Dashboard**
-
-    - I will add description here
-      <!-- Description: A comprehensive Tableau dashboard analyzing market trends and customer behavior. -->
-      <!-- - Features: Interactive filters, line and bar charts, geographic map visualizations.
-    - [View Project](link-to-project)
-    - Screenshot: ![Tableau Market Analysis](screenshot-link) -->
-
-  - **Financial Summary Report**
-    - I will add description here
-    <!-- - Description: A Tableau workbook summarizing financial data for decision-makers.
-    - Features: Drill-down options, financial trend analysis, revenue breakdown by department.
-    - [View Project](link-to-project)
-    - Screenshot: ![Financial Report](screenshot-link) -->
-
 <!--
 
 ## Contact
