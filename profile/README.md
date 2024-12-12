@@ -35,9 +35,22 @@ Explore our featured projects categorized below to see how Data Function Inc. ca
 
 - **Object Detection and Recognition**
 
-  - A cutting-edge object detection model built using YOLOv5.
-  - [Project Link](#)
-  - ![Object Detection Demo](#)
+  1. [YOLOv3 Object Detection](https://github.com/DataFunctionInc/object-detection--nd-recognition.git)
+     A python-based object detection built using the YOLOv3 deep learning model. This project processes images and videos, identifying objects and saving the results in a designated folder. It includes:
+
+  - **Image and Video Processing**: Detect objects in static images and real-time video frames.
+  - **Customizable Thresholds**: Configurable IoU and confidence thresholds for more accurate detections.
+  - **Real-Time Processing**: Supports both batch image detection and real-time video processing.
+    <div >
+        <a href="https://github.com/DataFunctionInc/object-detection--nd-recognition.git"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="Github" /></a>
+        <a href="https://www.kaggle.com"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+        </div>
+
+    <div >
+
+    <div align="center">
+    <img src="./assets/data-science/object-detection/object-detections.gif"  />
+    </div>
 
 - **Natural Lanuage Processing**
 
@@ -91,7 +104,7 @@ Explore our featured projects categorized below to see how Data Function Inc. ca
 
      - Visuals of the agent playing the game:
      <div align="center">
-      <img src="./assets/data-science/reinforcement-learning/chess-engine/chess-engine.gif"  height="300"/>
+      <img src="./assets/data-science/reinforcement-learning/chess-engine/chess-engine.gif"   height="350"/>
      </div>
 
 #### Data Analytics
