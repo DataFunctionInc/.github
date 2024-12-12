@@ -38,19 +38,19 @@ Explore our featured projects categorized below to see how Data Function Inc. ca
   1. [YOLOv3 Object Detection](https://github.com/DataFunctionInc/object-detection--nd-recognition.git)
      A python-based object detection built using the YOLOv3 deep learning model. This project processes images and videos, identifying objects and saving the results in a designated folder. It includes:
 
-  - **Image and Video Processing**: Detect objects in static images and real-time video frames.
-  - **Customizable Thresholds**: Configurable IoU and confidence thresholds for more accurate detections.
-  - **Real-Time Processing**: Supports both batch image detection and real-time video processing.
-    <div >
-        <a href="https://github.com/DataFunctionInc/object-detection--nd-recognition.git"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="Github" /></a>
-        <a href="https://www.kaggle.com"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-        </div>
+     - **Image and Video Processing**: Detect objects in static images and real-time video frames.
+     - **Customizable Thresholds**: Configurable IoU and confidence thresholds for more accurate detections.
+     - **Real-Time Processing**: Supports both batch image detection and real-time video processing.
+       <div >
+           <a href="https://github.com/DataFunctionInc/object-detection--nd-recognition.git"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="Github" /></a>
+           <a href="https://www.kaggle.com"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+           </div>
 
-    <div >
+       <div >
 
-    <div align="center">
-    <img src="./assets/data-science/object-detection/object-detections.gif"  />
-    </div>
+       <div align="center">
+       <img src="./assets/data-science/object-detection/object-detections.gif"  />
+       </div>
 
 - **Natural Lanuage Processing**
 
