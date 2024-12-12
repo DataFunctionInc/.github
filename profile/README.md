@@ -49,7 +49,7 @@ Explore our featured projects categorized below to see how Data Function Inc. ca
        <div >
 
        <div align="center">
-       <img src="./assets/data-science/object-detection/object-detections.gif"  />
+       <img src="./assets/data-science/object-detection/object-detections.gif" width='100%' />
        </div>
 
 - **Natural Lanuage Processing**
