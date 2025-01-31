@@ -246,53 +246,6 @@ Have design and managed production scale databased extensive experience in web a
       >
    <div>
 
-- ##### Power BI Projects
-
-  - **Sales Dashboard**
-
-    - Description: A Power BI dashboard displaying sales performance metrics.
-    <!-- - Features: Interactive charts, filters for regions and time periods, and monthly growth analysis.
-    - [View Project](link-to-project)
-    - Screenshot: ![Power BI Dashboard](screenshot-link) -->
-
-  - **Employee Performance Tracker**
-    - Description: Power BI report to track employee performance using various KPIs.
-    <!-- - Features: Visuals like bar charts, scatter plots, and trend lines to visualize employee data over time.
-    - [View Project](link-to-project)
-    - Screenshot: ![Employee Performance](screenshot-link) -->
-
-- ##### Tableau Projects
-
-  - **Market Analysis Dashboard**
-
-    - I will add description here
-      <!-- Description: A comprehensive Tableau dashboard analyzing market trends and customer behavior. -->
-      <!-- - Features: Interactive filters, line and bar charts, geographic map visualizations.
-    - [View Project](link-to-project)
-    - Screenshot: ![Tableau Market Analysis](screenshot-link) -->
-
-  - **Financial Summary Report**
-    - I will add description here
-    <!-- - Description: A Tableau workbook summarizing financial data for decision-makers.
-    - Features: Drill-down options, financial trend analysis, revenue breakdown by department.
-    - [View Project](link-to-project)
-    - Screenshot: ![Financial Report](screenshot-link) -->
-
-- ##### Excel Projects
-
-  - **Sales Forecasting Model**
-
-    - I will add description here
-    <!-- - Description: An Excel model that uses historical sales data to forecast future trends.
-    - Features: Use of functions like **IF**, **VLOOKUP**, and **FORECAST** to predict sales.
-    - [View Project](link-to-project)
-    - Screenshot: ![Sales Forecasting](screenshot-link) -->
-
-  - **Data Cleaning and Transformation**
-    - Description: A collection of Excel tools and macros to clean and transform raw data into usable formats.
-    - Features: Data normalization, removal of duplicates, and advanced pivot table usage.
-    - [View Project](link-to-project)
-    - Screenshot: ![Data Cleaning](screenshot-link)
 
 #### Frontend Development
 
