@@ -60,7 +60,7 @@ Explore our featured projects categorized below to see how Data Function Inc. ca
 
 - **Forecasting & Time Series Analysis**
 
-  1. [LSTM Multivariate Stock Price Prediction](https://github.com/dawoodcheema/lstm-multivariate-stock-price-prediction)
+  1. [LSTM Multivariate Stock Price Prediction](https://github.com/DataFunctionInc/lstm-multivariate-stock-price-prediction)
      A deep learning project using LSTM for multivariate time series analysis to predict Google stock prices. Trained on five years of historical data, the model forecasts stock performance over a two-month period.
      <div >
       <a href="https://github.com/DataFunctionInc/lstm-stock-price-prediction.git"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="Github" /></a>
@@ -108,23 +108,23 @@ Explore our featured projects categorized below to see how Data Function Inc. ca
 
 - **Predictive Modeling**
 
-  1.  [Heart Disease Prediction](https://github.com/dawoodcheema/heart-disease-prediction.git)
+  1.  [Heart Disease Prediction](https://github.com/DataFunctionInc/heart-disease-prediction.git)
       A machine learning model that predicts the likelihood of heart disease based on patient data. Implements logistic regression, decision trees, and neural networks for classification.
 
         <div >
-              <a href="https://github.com/dawoodcheema/heart-disease-prediction.git"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="Github" /></a>
+              <a href="https://github.com/DataFunctionInc/heart-disease-prediction.git"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="Github" /></a>
               <a href="https://www.kaggle.com"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
               </div>
         <div >
 
       ![Heart Disease Prediction Scores](assets/data-science/predictive-modeling/heart-prediction/output.png)
 
-  2.  [Disease Prediction from Symptoms](https://github.com/dawoodcheema/symptoms-disease-prediction.git)
+  2.  [Disease Prediction from Symptoms](https://github.com/DataFunctionInc/symptoms-base-disease-prediction.git)
       A machine learning project that predicts diseases based on symptoms using various classification algorithms. The model takes a list of symptoms as input and predicts the most probable disease based on trained data.its feature includes. - Implementation of multiple ML algorithms: Naive Bayes, Decision Tree, Random Forest, Gradient Boosting - Supports two datasets:
       - Kaggle Dataset (133 symptoms + prognosis)
       - Columbia Dataset (Disease occurrences & symptoms)
       <div >
-      <a href="https://github.com/dawoodcheema/symptoms-disease-prediction.git"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="Github" /></a>
+      <a href="https://github.com/DataFunctionInc/symptoms-base-disease-prediction.git"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="Github" /></a>
       <a href="https://www.kaggle.com"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
       </div>
       <div >
