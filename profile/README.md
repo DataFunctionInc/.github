@@ -11,10 +11,6 @@ Welcome to the official GitHub profile of **Data Function Inc.**, where we showc
 <a href="https://www.upwork.com/agencies/datafunction/">
   <img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" />
 </a>
-
-<a href="https://twitter.com/DataFunctionInc">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
 <a href="https://www.facebook.com/datafunction.ca">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
